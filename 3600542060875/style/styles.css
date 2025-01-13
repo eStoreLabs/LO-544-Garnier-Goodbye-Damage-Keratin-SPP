@@ -10,6 +10,7 @@ body {
   max-width: 680px;
   margin: 0 auto;
   padding: 0;
+  background: #fff;
 }
 
 #es-garnier.es-garnier * {
